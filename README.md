@@ -1,6 +1,4 @@
-# Bike Sharing Dashboard ✨
-
-![Streamlit Dashboard Preview](https://github.com/fadiyahsutopo/AnalisisDataPython/blob/main/dashboard.png?raw=true)
+# Bike Sharing Dashboard 
 
 ## Setup environment
 ```
